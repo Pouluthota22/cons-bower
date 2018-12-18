@@ -1,0 +1,17 @@
+{
+  "name": "mybower",
+  "authors": [
+    "Poulu Thota <pouluthota@gmail.com>"
+  ],
+  "description": "",
+  "main": "main.js",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
